@@ -12,5 +12,6 @@ public class AppTest
     public void testApp()
     {
         System.out.println("AppTest class");
+        System.out.println("AppTest class");
     }
 }
